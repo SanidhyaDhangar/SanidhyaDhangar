@@ -38,3 +38,7 @@ Email Me 👉 ✉️ **sanidhyadhangar4@gmail.com** For Collaboration/Project or
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Learn. Code. Solve. Grow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank+For+Visiting!+%F0%9F%99%8F&fontSize=25&fontColor=fff&animation=twinkling"/>
+
+</div>
