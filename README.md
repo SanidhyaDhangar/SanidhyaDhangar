@@ -27,6 +27,8 @@ Email Me 👉 ✉️ **sanidhyadhangar4@gmail.com** For Collaboration/Project or
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanidhyaDhangar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SanidhyaDhangar&theme=dark&hide_border=false)<br/>
@@ -36,6 +38,11 @@ Email Me 👉 ✉️ **sanidhyadhangar4@gmail.com** For Collaboration/Project or
 [![](https://visitcount.itsvg.in/api?id=SanidhyaDhangar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700">
+</div> 
+    
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Learn. Code. Solve. Grow."
 
