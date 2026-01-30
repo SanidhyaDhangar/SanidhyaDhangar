@@ -1,5 +1,10 @@
 # Hi 👋, I'm Sanidhya Dhangar
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=1000&pause=500&color=20F5FF&center=true&vCenter=true&multiline=false&repeat=false&width=1200&height=70&lines=%E2%9C%A8%F0%9F%9A%80+SANIDHYA+DHANGAR" alt="Typing SVG" />
+</div>
+
 **A passionate Data Science Undergrad**
+
 
 Email Me 👉 ✉️ **sanidhyadhangar4@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
